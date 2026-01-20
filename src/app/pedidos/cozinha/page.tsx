@@ -1,0 +1,1 @@
+<h1>Painel Cozinha (Tempo Real)</h1>
